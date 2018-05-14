@@ -1,4 +1,4 @@
-function myAnimal() {
+learnfunction myAnimal() {
   var name = "dog"
   return name
 }
@@ -13,7 +13,7 @@ function add2(n) {
   return r
 }
 
-function funkyFunction() {
+function funkyFunction(theFunk) {
   return theFunk
 }
 
