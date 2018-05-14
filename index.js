@@ -12,3 +12,7 @@ function add2(n) {
   let x = n + 2
   return x
 }
+
+function funkyFunction() {
+  return add2
+}
