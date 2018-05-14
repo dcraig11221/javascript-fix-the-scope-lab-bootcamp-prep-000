@@ -13,7 +13,7 @@ function add2(n) {
   return r
 }
 
-function funkyFunction(theFunk) {
+function funkyFunction() {
   return myAnimal()
 }
 
