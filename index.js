@@ -1,4 +1,4 @@
-learnfunction myAnimal() {
+function myAnimal() {
   var name = "dog"
   return name
 }
